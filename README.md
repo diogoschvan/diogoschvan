@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-With solid experience in PHP (Laravel, CodeIgniter), I’ve worked on financial platforms, monitoring systems, and integrations with external services—always with a strong focus on performance and security. Skilled in database management with **PostgreSQL** and **MySQL**, and proficient in containerization and deployment using **Docker**, **AWS**, **Google Cloud**, and **CI/CD pipelines**. I also value clean code practices, automated testing, and version control with **Git**.
+With solid experience in PHP (Laravel, CodeIgniter), I’ve worked on financial platforms, monitoring systems, and integrations with external services, always with a strong focus on performance and security. Skilled in database management with **PostgreSQL** and **MySQL**, and proficient in containerization and deployment using **Docker**, **AWS**, **Google Cloud**, and **CI/CD pipelines**. I also value clean code practices, automated testing, and version control with **Git**.
 
 ---
 
